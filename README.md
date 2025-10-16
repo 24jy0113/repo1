@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # repo1
 test
 test
@@ -71,7 +71,4 @@ for(int i=0; i<10; i++){
 5. プッシュ
 
 
-
-
-
->>>>>>> branch 'main' of https://github.com/24jy0113/repo1.git
+hello
