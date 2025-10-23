@@ -72,4 +72,10 @@ for(int i=0; i<10; i++){
 5. プッシュ
 
 
-hello
+github  local
+
+pull download
+
+push upload
+
+clone 丸ごとcopy
